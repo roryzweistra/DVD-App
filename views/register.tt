@@ -1,0 +1,6 @@
+<h1>Register user</h1>
+<form action="/register/new" method="post">
+<label for="username">User: </label><input type="text" name="username" /><br />
+<label for="password">Pass: </label><input type="text" name="password" /><br />
+<input type="submit" value="Aanmelden" />
+</form>
