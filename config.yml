@@ -41,7 +41,7 @@ plugins:
         database: 'DVD'
         host: 'localhost'
         port: 3306
-        username: 'rory'
+        username: 'root'
         password: 'rorgasme1'
         connection_check_threshold: 10
         dbi_params:
